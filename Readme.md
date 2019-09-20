@@ -7,4 +7,4 @@ These can be anything, a package that you need for project, a desktop or web app
 
 ## Voting
 
-Leave a :thumbsup: to vote. Resulting priorities will be filtered by sponsors, if you'd like to see work done on any of these projects, or my existing software, consider [sponsoring]([GitHub sponsors](https://github.com/users/tj/sponsorship)) me.
+Leave a :thumbsup: to vote. Resulting priorities will be filtered by sponsors, if you'd like to see work done on any of these projects, or my existing software, consider [sponsoring](https://github.com/users/tj/sponsorship) me.
