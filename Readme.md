@@ -17,3 +17,4 @@ Lists of packages, programs, and applications funded by my sponsors so far.
 - [go-editor](https://github.com/tj/go-editor) — Go package for reading from $EDITOR
 - [go-news](https://github.com/tj/go-news) — DynamoDB-backed mailing list package for Go
 - [news-api](https://github.com/tj/news-api) — Go API server for managing mailing lists and subscriptions
+- [staticgen](https://github.com/tj/staticgen) — Static website generator allowing you to use any HTTP server or framework
