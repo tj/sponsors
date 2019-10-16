@@ -13,11 +13,6 @@ Leave a :thumbsup: to vote. Resulting priorities will be filtered by sponsors, i
 
 Lists of packages, programs, and applications funded by my sponsors so far.
 
-## Packages
-
 - [go-config](https://github.com/tj/go-config) — Very minimalist Go configuration loading package for Go
 - [go-news](https://github.com/tj/go-news) — DynamoDB-backed mailing list package for Go
-
-## Programs
-
 - [news-api](https://github.com/tj/news-api) — Go API server for managing mailing lists and subscriptions
