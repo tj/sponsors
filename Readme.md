@@ -1,5 +1,5 @@
 
-My [GitHub sponsors](https://github.com/users/tj/sponsorship) can suggest and vote for their favorite project ideas to help prioritize them.
+My [GitHub sponsors](https://github.com/sponsors/tj) can suggest and vote for their favorite project ideas to help prioritize them.
 
 ## Suggestions
 
@@ -7,7 +7,7 @@ These can be anything, a package that you need for project, a desktop or web app
 
 ## Voting
 
-Leave a :thumbsup: to vote. Resulting priorities will be filtered by sponsors, if you'd like to see work done on any of these projects, or my existing software, consider [sponsoring](https://github.com/users/tj/sponsorship) me.
+Leave a :thumbsup: to vote. Resulting priorities will be filtered by sponsors, if you'd like to see work done on any of these projects, or my existing software, consider [sponsoring](https://github.com/sponsors/tj) me.
 
 ## Funded
 
