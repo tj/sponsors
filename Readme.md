@@ -18,3 +18,4 @@ Lists of packages, programs, and applications funded by my sponsors so far.
 - [go-news](https://github.com/tj/go-news) — DynamoDB-backed mailing list package for Go
 - [news-api](https://github.com/tj/news-api) — Go API server for managing mailing lists and subscriptions
 - [staticgen](https://github.com/tj/staticgen) — Static website generator allowing you to use any HTTP server or framework
+- [letterbox](https://github.com/tj/letterbox) — Go program to batch-process letter-boxing of photographs
