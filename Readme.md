@@ -17,9 +17,13 @@ Go packages funded by my sponsors:
 - [go-css](https://github.com/tj/go-css) — Go CSS utilities such as hex color parsing
 - [go-editor](https://github.com/tj/go-editor) — Go package for reading from $EDITOR
 - [go-news](https://github.com/tj/go-news) — DynamoDB-backed mailing list package for Go
+- [go-tea](https://github.com/tj/go-tea) — Go interactive terminal framework inspired by The Elm Architecture (TEA)
+- [go-termd](https://github.com/tj/go-termd) — Terminal markdown rendering with code block syntax highlighting support
+- [go-terminput](https://github.com/tj/go-terminput) — Terminal keyboard input package without an opinionated framework
 
 Programs funded by my sponsors:
 
 - [letterbox](https://github.com/tj/letterbox) — Go program to batch-process letter-boxing of photographs
 - [news-api](https://github.com/tj/news-api) — Go API server for managing mailing lists and subscriptions
 - [staticgen](https://github.com/tj/staticgen) — Static website generator allowing you to use any HTTP server or framework
+- [triage](https://github.com/tj/triage) — Interactive command-line GitHub issue & notification triaging tool
