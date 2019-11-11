@@ -11,7 +11,7 @@ Leave a :thumbsup: to vote. Resulting priorities will be filtered by sponsors, i
 
 ## Funded
 
-Go packages funded by my sponsors:
+__Go packages__ funded by my sponsors:
 
 - [go-config](https://github.com/tj/go-config) — Very minimalist Go configuration loading package for Go
 - [go-css](https://github.com/tj/go-css) — Go CSS utilities such as hex color parsing
@@ -21,7 +21,7 @@ Go packages funded by my sponsors:
 - [go-termd](https://github.com/tj/go-termd) — Terminal markdown rendering with code block syntax highlighting support
 - [go-terminput](https://github.com/tj/go-terminput) — Terminal keyboard input package without an opinionated framework
 
-Programs funded by my sponsors:
+__Programs__ funded by my sponsors:
 
 - [letterbox](https://github.com/tj/letterbox) — Go program to batch-process letter-boxing of photographs
 - [news-api](https://github.com/tj/news-api) — Go API server for managing mailing lists and subscriptions
