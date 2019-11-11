@@ -19,15 +19,15 @@ __Go packages__ funded by my sponsors:
 | [go-css](https://github.com/tj/go-css) | CSS utilities such as hex color parsing |
 | [go-editor](https://github.com/tj/go-editor) | Utility package for reading from $EDITOR |
 | [go-news](https://github.com/tj/go-news) | DynamoDB-backed mailing list package for Go |
-| [go-tea](https://github.com/tj/go-tea) | Interactive terminal framework inspired by The Elm  |Architecture (TEA)
-| [go-termd](https://github.com/tj/go-termd) | Terminal markdown rendering with code block syntax  |highlighting support
-| [go-terminput](https://github.com/tj/go-terminput) | Terminal keyboard input package without an  |opinionated framework
+| [go-tea](https://github.com/tj/go-tea) | Interactive terminal framework inspired by The Elm Architecture
+| [go-termd](https://github.com/tj/go-termd) | Terminal markdown rendering with code block syntax highlighting support |
+| [go-terminput](https://github.com/tj/go-terminput) | Terminal keyboard input package without an  opinionated framework |
 
 __Programs__ funded by my sponsors:
 
 | Name | Description |
 |---------|-------------|
-| [letterbox](https://github.com/tj/letterbox) | Go program to batch-process letter-boxing of  |photographs
-| [news-api](https://github.com/tj/news-api) | Go API server for managing mailing lists and  |subscriptions
-| [staticgen](https://github.com/tj/staticgen) | Static website generator allowing you to use any  |HTTP server or framework
-| [triage](https://github.com/tj/triage) | Interactive command-line GitHub issue & notification  |triaging tool
+| [letterbox](https://github.com/tj/letterbox) | Batch-process letter-boxing of photographs |
+| [news-api](https://github.com/tj/news-api) | API server for managing mailing lists and subscriptions |
+| [staticgen](https://github.com/tj/staticgen) | Static website generator allowing you to use any HTTP server or framework |
+| [triage](https://github.com/tj/triage) | Interactive command-line GitHub issue & notification triaging tool |
