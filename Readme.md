@@ -18,6 +18,7 @@ __Go packages__ funded by my sponsors:
 | [go-config](https://github.com/tj/go-config) | Very minimalist Go configuration loading package 
 | [go-css](https://github.com/tj/go-css) | CSS utilities such as hex color parsing |
 | [go-editor](https://github.com/tj/go-editor) | Utility package for reading from $EDITOR |
+| [go-naturaldate](https://github.com/tj/go-naturaldate) | Natural language date/time parser |
 | [go-news](https://github.com/tj/go-news) | DynamoDB-backed mailing list package for Go |
 | [go-tea](https://github.com/tj/go-tea) | Interactive terminal framework inspired by The Elm Architecture
 | [go-termd](https://github.com/tj/go-termd) | Terminal markdown rendering with code block syntax highlighting support |
