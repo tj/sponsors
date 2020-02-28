@@ -32,3 +32,9 @@ __Programs__ funded by my sponsors:
 | [news-api](https://github.com/tj/news-api) | API server for managing mailing lists and subscriptions |
 | [staticgen](https://github.com/tj/staticgen) | Static website generator allowing you to use any HTTP server or framework |
 | [triage](https://github.com/tj/triage) | Interactive command-line GitHub issue & notification triaging tool |
+
+__Services__ funded by my sponsors:
+
+| Name | Description |
+|---------|-------------|
+| [gobinaries](https://github.com/tj/gobinaries) | On-demand Go binaries for command-line tools |
