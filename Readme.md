@@ -31,6 +31,8 @@ __Programs__ funded by my sponsors:
 | [letterbox](https://github.com/tj/letterbox) | Batch-process letter-boxing of photographs |
 | [news-api](https://github.com/tj/news-api) | API server for managing mailing lists and subscriptions |
 | [staticgen](https://github.com/tj/staticgen) | Static website generator allowing you to use any HTTP server or framework |
+| [sponsors-api](https://github.com/tj/sponsors-api) | GitHub Sponsor avatar listings in your Readme.md
+ |
 | [triage](https://github.com/tj/triage) | Interactive command-line GitHub issue & notification triaging tool |
 
 __Services__ funded by my sponsors:
