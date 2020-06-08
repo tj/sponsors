@@ -20,6 +20,7 @@ __Go packages__ funded by my sponsors:
 | [go-editor](https://github.com/tj/go-editor) | Utility package for reading from $EDITOR |
 | [go-naturaldate](https://github.com/tj/go-naturaldate) | Natural language date/time parser |
 | [go-news](https://github.com/tj/go-news) | DynamoDB-backed mailing list package for Go |
+| [go-spa](https://github.com/tj/spa) | Single Page Application server for Go |
 | [go-tea](https://github.com/tj/go-tea) | Interactive terminal framework inspired by The Elm Architecture
 | [go-termd](https://github.com/tj/go-termd) | Terminal markdown rendering with code block syntax highlighting support |
 | [go-terminput](https://github.com/tj/go-terminput) | Terminal keyboard input package without an  opinionated framework |
@@ -32,6 +33,7 @@ __Programs__ funded by my sponsors:
 | [news-api](https://github.com/tj/news-api) | API server for managing mailing lists and subscriptions |
 | [staticgen](https://github.com/tj/staticgen) | Static website generator allowing you to use any HTTP server or framework |
 | [sponsors-api](https://github.com/tj/sponsors-api) | GitHub Sponsor avatar listings in your Readme.md |
+| [spa](https://github.com/tj/spa) | Single Page Application server |
 | [triage](https://github.com/tj/triage) | Interactive command-line GitHub issue & notification triaging tool |
 
 __Services__ funded by my sponsors:
