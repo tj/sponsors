@@ -31,6 +31,7 @@ __Programs__ funded by my sponsors:
 |---------|-------------|
 | [letterbox](https://github.com/tj/letterbox) | Batch-process letter-boxing of photographs |
 | [news-api](https://github.com/tj/news-api) | API server for managing mailing lists and subscriptions |
+| [rpc](https://github.com/apex/rpc) | Schema-based RPC API client & server generation |
 | [staticgen](https://github.com/tj/staticgen) | Static website generator allowing you to use any HTTP server or framework |
 | [sponsors-api](https://github.com/tj/sponsors-api) | GitHub Sponsor avatar listings in your Readme.md |
 | [spa](https://github.com/tj/spa) | Single Page Application server |
